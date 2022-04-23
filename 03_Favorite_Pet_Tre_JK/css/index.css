@@ -1,0 +1,41 @@
+nav {
+  height: 75px; 
+  background-color: lightsteelblue;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
+.section_left{
+  width: 29%;
+  float: left;
+  background-color: blue;
+  height: 1000px;
+  text-align: center;
+  font-size:x-large;
+}
+.section_right{
+  width: 71%;
+  float: right;
+  background-color: darkslategray;
+  height: 1000px;
+}
+.section_left_top{
+  height: 50%;
+  background-color: orange;
+}
+.section_left_bottom{
+  height: 50%;
+  background-color: yellow;
+}
+.img{
+  width: 500px;
+  float: inherit;
+}
+.card{
+  height: 250px;
+  width: 150px;
+  background-color: grey;
+  text-align: center;
+  float: inherit;
+}
